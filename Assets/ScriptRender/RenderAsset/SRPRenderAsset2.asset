@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d335e7b7227049afbcc96cba1a24dc8, type: 3}
+  m_Name: SRPRenderAsset2
+  m_EditorClassIdentifier: 
+  SkyBox: {fileID: 7910383134036938474, guid: 33dd23af2d91848c4aa9840827a1bf46, type: 3}
+  BlitCopy: {fileID: 1684900317044477863, guid: 14462fa696b4b4e89946e06539bf4a2f,
+    type: 3}
+  BlitColorDispersion: {fileID: 3127010973602296830, guid: a3d0a8068e0c94e64a7c714e7560d648,
+    type: 3}
+  INScreenSpaceShadow: {fileID: 8685095734527706329, guid: 5a434d8891d5b461681d5746100d529a,
+    type: 3}
+  DeferredShading: {fileID: 4153668927757299679, guid: d60ec0567d5234568baa35ab2eca28a5,
+    type: 3}
+  OpenImageProcess: 0
+  SkeyBox: 1
+  Clip: 1
+  PerpctiveCorrection: 1
+  RevertZ: 0
+  ScreenSapceShadow: 0
+  RenderingPath: 0
+  GraphicType: 0
