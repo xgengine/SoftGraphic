@@ -1,6 +1,6 @@
 # SoftGraphic
 学习Unity 跨平台渲染相关知识时，编写的SoftGraphic，在SoftGraphic实现了一个支持forwrad和Deferred 的ScriptRenderPepeline
-
+Unity版本2018
 目录介绍
 
 
