@@ -1,8 +1,8 @@
 # SoftGraphic
-学习Unity 跨平台渲染相关知识时，编写的SoftGraphic，在SoftGraphic实现了一个支持forwrad和Deferred 的ScriptRenderPepeline
-Unity版本2018
-目录介绍
+学习Unity 跨平台渲染相关知识时，编写的SoftGraphic，在SoftGraphic基础上实现了一个支持简单的forwrad和Deferred 的ScriptRenderPepeline
 
+工程对应 Unity版本2018
+目录介绍
 
 Asset/Scene
     场景几个实例场景
